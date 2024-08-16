@@ -113,5 +113,5 @@ We welcome contributions from the community! If you'd like to contribute to the 
 <ul>
 We hope you find the DreamHome Real Estate Website platform useful for your real estate endeavors. If you have any questions or encounter any issues, please don't hesitate to contact us.
 
-Mail id:- manan202101136@gmail.com 
+Mail id:- aum20444@gmail.com
 </ul>
