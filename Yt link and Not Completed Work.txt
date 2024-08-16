@@ -1,0 +1,11 @@
+*Part of requirements Not Completed/Implemented*
+
+-Realestete search using Maps
+-Mail/Signup Authentication
+-Payment feature for sellers
+-Reatings and reviews system
+-Realtime chatting with customer-care
+-Realestate analysis By traders
+
+
+Yt link:- https://www.youtube.com/watch?v=5V7OwX3Mk6Y
